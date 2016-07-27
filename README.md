@@ -11,5 +11,5 @@ INSTALLATION
 ------------
 
 ```
-composer require "pedrorocha-net/fb-messenger-php"
+composer require "pedrorocha-net/fb-messenger-bot-php"
 ```
