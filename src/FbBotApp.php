@@ -1,8 +1,8 @@
 <?php
 
-namespace FBMessengerBot;
+namespace PedroRochaNet\FBMessengerBot;
 
-use FBMessengerBot\Messages\Message;
+use PedroRochaNet\FBMessengerBot\Messages\Message;
 
 class FbBotApp {
   /**

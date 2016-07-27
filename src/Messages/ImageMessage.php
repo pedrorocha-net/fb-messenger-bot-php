@@ -1,11 +1,11 @@
 <?php
 
-namespace FBMessengerBot\Messages;
+namespace PedroRochaNet\FBMessengerBot\Messages;
 
 /**
  * Class ImageMessage
  *
- * @package FBMessengerBot\Messages
+ * @package PedroRochaNet\FBMessengerBot\Messages
  */
 class ImageMessage extends Message{
   /**

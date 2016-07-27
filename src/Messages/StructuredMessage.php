@@ -1,11 +1,11 @@
 <?php
 
-namespace FBMessengerBot\Messages;
+namespace PedroRochaNet\FBMessengerBot\Messages;
 
 /**
  * Class StructuredMessage
  *
- * @package FBMessengerBot\Messages
+ * @package PedroRochaNet\FBMessengerBot\Messages
  */
 class StructuredMessage extends Message {
   /**

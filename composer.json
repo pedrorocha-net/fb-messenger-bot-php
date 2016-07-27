@@ -16,7 +16,7 @@
 
   "autoload": {
     "psr-4": {
-      "FBMessengerBot\\": "src"
+      "PedroRochaNet\\FBMessengerBot\\": "src"
     }
   }
 }

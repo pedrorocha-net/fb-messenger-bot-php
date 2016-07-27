@@ -1,6 +1,6 @@
 <?php
 
-namespace FBMessengerBot;
+namespace PedroRochaNet\FBMessengerBot;
 
 interface MessageInterface {
 
