@@ -1,15 +1,9 @@
 {
-  "name": "pedrorocha-net/fb-messenger-php",
+  "name": "pedrorocha-net/fb-messenger-bot-php",
   "description": " Facebook Messenger Bot PHP API ",
-  "homepage": "https://github.com/pedrorocha-net/fb-messenger-php",
+  "homepage": "https://github.com/pedrorocha-net/fb-messenger-bot-php",
   "license": "MIT",
   "authors": [
-    {
-      "name": "Max Pinyugin",
-      "email": "m.pinyugin@gmail.com",
-      "homepage": "http://russian-developers.com",
-      "role": "Developer"
-    },
     {
       "name": "Pedro Rocha",
       "email": "pedrogomesrocha@gmail.com",
@@ -21,6 +15,8 @@
   },
 
   "autoload": {
-    "psr-4": { "pedrorocha-net\\": "" }
+    "psr-4": {
+      "FBMessengerBot\\": "src"
+    }
   }
 }

@@ -1,11 +1,11 @@
 <?php
 
-namespace pedrorochanet\Messages;
+namespace FBMessengerBot\Messages;
 
 /**
  * Class MessageReceiptElement
  *
- * @package pedrorochanet\Messages
+ * @package FBMessengerBot\Messages
  */
 class MessageReceiptElement extends MessageElement {
   /**

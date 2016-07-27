@@ -1,13 +1,14 @@
 <?php
 
-namespace pedrorochanet\Messages;
+namespace FBMessengerBot\Messages;
 
 /**
  * Class Message
  *
- * @package pedrorochanet\Messages
+ * @package FBMessengerBot\Messages
  */
-class Message {
+class Message implements \FBMessengerBot\MessageInterface {
+
   /**
    * @var null|string
    */

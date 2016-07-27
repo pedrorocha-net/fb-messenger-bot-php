@@ -1,10 +1,10 @@
 <?php
 
-namespace pedrorochanet\Messages;
+namespace FBMessengerBot\Messages;
 
 /**
  * Class MessageButton
- * @package pedrorochanet\Messages
+ * @package FBMessengerBot\Messages
  */
 class MessageButton {
   /**
