@@ -11,9 +11,5 @@ INSTALLATION
 ------------
 
 ```
-composer require "pimax/fb-messenger-php" "dev-master"
+composer require "pedrorocha-net/fb-messenger-php"
 ```
-
-BASIC USAGE
-------------
-See this repo - [https://github.com/pimax/fb-messenger-php-example](https://github.com/pimax/fb-messenger-php-example)

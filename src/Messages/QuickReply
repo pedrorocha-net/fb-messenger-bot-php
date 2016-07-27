@@ -1,10 +1,10 @@
 <?php
 
-namespace pimax\Messages;
+namespace pedrorochanet\Messages;
 /**
  * Class QuickReply
  *
- * @package pimax\Messages
+ * @package pedrorochanet\Messages
  */
 class QuickReply extends Message{
     /**
